@@ -1,0 +1,54 @@
+
+#ether {
+    font-family: Georgia, serif;
+    color: rgb(91, 103, 129);
+    
+    text-align: center;
+    
+    
+}
+
+#ether a {
+    color: rgb(91, 103, 129);
+}
+
+#divGrid {
+    display: grid;
+    /* grid-template-columns: repeat(2, 1fr); */
+    grid-gap: 20px;
+}
+
+#divIndex {
+    display: grid;
+    font-family: Georgia, serif;
+    color: rgb(91, 103, 129);
+}
+
+#divIndex a {
+    color: rgb(91, 103, 129);
+}
+
+#divIndex a:hover {
+    color: #b9f6ca;
+}
+
+ul {
+    display: grid;
+    padding-inline-start: 20px;
+}
+
+#paragraph {
+    display: grid;
+    
+    font-family: Georgia, serif;
+    color: rgb(91, 103, 129);
+
+}
+
+#divLoginForm {
+    display: grid;
+}
+
+.hidden {
+    display: none;
+}
